@@ -3,9 +3,6 @@
 Time spent: **2.5** hours spent in total 
 
 ## User Stories
-
-The following **required** functionality is completed:
-
 1. Set up Burp
 2. Challenge 1 - HTTP Headers
 3. Challenge 2 - HTTP Methods
